@@ -15,3 +15,4 @@ src/.paket/Paket.Restore.targets text eol=crlf
 
 # These files are binaries
 src/GitTfsTest/Fixtures/vtccds/* binary
+.github/ merge=ours
